@@ -18,14 +18,16 @@ Each project focuses on one or more fundamental mechanics — progressing from t
 🧩 Project Contents
 
 | Project         | Title / Topic           | What I Learned                                   |
-| --------------- | ----------------------- | ------------------------------------------------ |
-| Fundamental #01 | **Core Game Structure** |  |
+|:---------------:| ----------------------- | ------------------------------------------------ |
+| Fundamental #01 | Shooting Game           |  How to set angle toward mouse/cursor            |
 | Fundamental #02 | (Add title here)        | (Add key learning)                               |
 | Fundamental #03 | (Add title here)        | (Add key learning)                               |
 | ...             | ... total up to 11      | ...                                              |
 
-| Left |  Center  | Right |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+
+| Tool                   | Usage                                     |
+| ---------------------- | ----------------------------------------- |
+| **Construct**          | Game engine & visual scripting            |
+| **GitHub**             | Version control & portfolio documentation |
+| **Photo/Image Assets** | Sprites, UI tests, backgrounds            |
+| **Screenshots**        | Project preview and documentation         |
