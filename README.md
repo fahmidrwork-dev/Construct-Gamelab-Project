@@ -58,8 +58,7 @@ learning **one mechanic at a time** and turning those fundamentals into real gam
 * Problem-solving mindset for interactive systems
 * Early experience with engine-based development workflows
 
-
-```
+---
 | No. | Project Name                | Core Feature                                   | Skills Learned                                              |
 | --- | --------------------------- | ---------------------------------------------- | ----------------------------------------------------------- |
 | 01  | Cursor-Tracking Tank        | Object rotates to follow mouse pointer         | Object behavior control, angle calculation                  |
@@ -73,4 +72,3 @@ learning **one mechanic at a time** and turning those fundamentals into real gam
 | 09  | 2D Platformer Final Project | Collect gems, enemies, 3 HP system, animations | Movement physics, AI basics, sprite animation, level design |
 
 ...
-```
