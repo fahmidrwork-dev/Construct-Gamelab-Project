@@ -59,6 +59,9 @@ learning **one mechanic at a time** and turning those fundamentals into real gam
 * Early experience with engine-based development workflows
 
 ---
+
+📌 Game Fundamental with Construct — Project List
+
 | No. | Project Name                | Core Feature                                   | Skills Learned                                              |
 | --- | --------------------------- | ---------------------------------------------- | ----------------------------------------------------------- |
 | 01  | Cursor-Tracking Tank        | Object rotates to follow mouse pointer         | Object behavior control, angle calculation                  |
