@@ -4,7 +4,7 @@
 
 #### 📌 Overview
 
-A collection of **~11 mini-projects** created during the Game Development Fundamentals program at Gamelab Indonesia.
+A collection of **11 mini-projects** created during the Game Development Fundamentals program at Gamelab Indonesia.
 Each project introduces **one essential game mechanic** used in real game development workflows.
 
 This course helped me understand:
@@ -15,6 +15,7 @@ This course helped me understand:
 * Simple UI and event logic
 * Basic game object behaviors
 * Smooth workflow and engine fundamentals
+* Basic understanding about code / Programming  
 
 ---
 
@@ -25,7 +26,7 @@ Each folder represents **one mechanic-focused prototype**, built using **Constru
 Example mechanics included:
 
 * 🔄 Mouse-aim rotation (e.g. Tank turret facing cursor)
-* 🎯 Shooting system basics
+* 🔊 Sound system
 * 🎮 Player movement fundamentals
 * ⚠️ Simple collision rules
 * ⭐ Trigger-based feedback & scoring
@@ -47,7 +48,7 @@ learning **one mechanic at a time** and turning those fundamentals into real gam
 
 | Tool            | Purpose                                   |
 | --------------- | ----------------------------------------- |
-| Construct 2 / 3 | Visual introduction to gameplay mechanics |
+| Construct 3     | Visual introduction to gameplay mechanics |
 
 ---
 
@@ -59,8 +60,11 @@ learning **one mechanic at a time** and turning those fundamentals into real gam
 
 
 ```
-01 - Tank Aim: Rotate tank turret with mouse
-02 - Player Move: Arrow key movement
-03 - Shooting: Shoot towards cursor
+| Construct Project  | Purpose                                   |
+| ---------------    | ----------------------------------------- |
+| Project-01         | understanding how to make an object always face the cursor or mouse |
+| Project-02         | understanding how to make an object always face the cursor or mouse |
+
+
 ...
 ```
