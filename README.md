@@ -71,4 +71,4 @@ learning **one mechanic at a time** and turning those fundamentals into real gam
 | 08  | Fruit Catcher               | Timer extends per catch, game over trigger     | Spawning system, timers, game loop                          |
 | 09  | 2D Platformer Final Project | Collect gems, enemies, 3 HP system, animations | Movement physics, AI basics, sprite animation, level design |
 
-...
+
