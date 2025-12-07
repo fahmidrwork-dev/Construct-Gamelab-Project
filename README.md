@@ -1,33 +1,66 @@
-#📘 Gamelab – Game Fundamentals Projects
-
-Learning the Core of Game Development using Construct
-
-This repository contains a collection of game development exercises assigned by Gamelab Indonesia as the foundational stage of my game developer journey.
-These projects were created to introduce essential concepts such as gameplay mechanics, asset management, event systems, and publishing workflows.
+#📘 Game Development Fundamentals – Gamelab Indonesia
 
 
-🎯 Course Objective
-✔ Understand basic game design and structure
-✔ Create interactive elements using Construct
-✔ Learn scene/level setup
-✔ Apply collisions, triggers, variables, and win/lose conditions
-✔ Build simple but complete playable prototypes
 
-Each project focuses on one or more fundamental mechanics — progressing from the basics to more robust game logic.
+#### 📌 Overview
 
-🧩 Project Contents
+A collection of **~11 mini-projects** created during the Game Development Fundamentals program at Gamelab Indonesia.
+Each project introduces **one essential game mechanic** used in real game development workflows.
 
-| Project         | Title / Topic           | What I Learned                                   |
-|:---------------:| ----------------------- | ------------------------------------------------ |
-| Fundamental #01 | Shooting Game           |  How to set angle toward mouse/cursor            |
-| Fundamental #02 | (Add title here)        | (Add key learning)                               |
-| Fundamental #03 | (Add title here)        | (Add key learning)                               |
-| ...             | ... total up to 11      | ...                                              |
+This course helped me understand:
+
+* Player control systems
+* Input interactions (keyboard + mouse)
+* Camera & target mechanics
+* Simple UI and event logic
+* Basic game object behaviors
+* Smooth workflow and engine fundamentals
+
+---
+
+#### 🎯 What’s Inside
+
+Each folder represents **one mechanic-focused prototype**, built using **Construct 2/3** as one of my earliest gamedev tools.
+
+Example mechanics included:
+
+* 🔄 Mouse-aim rotation (e.g. Tank turret facing cursor)
+* 🎯 Shooting system basics
+* 🎮 Player movement fundamentals
+* ⚠️ Simple collision rules
+* ⭐ Trigger-based feedback & scoring
+* 🧭 Level boundaries and respawn logic
 
 
-| Tool                   | Usage                                     |
-| ---------------------- | ----------------------------------------- |
-| **Construct**          | Game engine & visual scripting            |
-| **GitHub**             | Version control & portfolio documentation |
-| **Photo/Image Assets** | Sprites, UI tests, backgrounds            |
-| **Screenshots**        | Project preview and documentation         |
+---
+
+#### 🚀 Goal of This Course
+
+To build a **strong foundation** before moving into engines like Unity, Phaser, and Three.js.
+
+This marks the starting point of my gamedev journey —
+learning **one mechanic at a time** and turning those fundamentals into real games later.
+
+---
+
+#### 📚 Tech Used
+
+| Tool            | Purpose                                   |
+| --------------- | ----------------------------------------- |
+| Construct 2 / 3 | Visual introduction to gameplay mechanics |
+
+---
+
+#### 🏆 Skills Gained
+
+* Understanding how mechanics combine into gameplay
+* Problem-solving mindset for interactive systems
+* Early experience with engine-based development workflows
+
+
+```
+01 - Tank Aim: Rotate tank turret with mouse
+02 - Player Move: Arrow key movement
+03 - Shooting: Shoot towards cursor
+...
+```
