@@ -1,77 +1,74 @@
-#📘 Game Development Fundamentals – Gamelab Indonesia
+# 🎯 Game Development Fundamentals — Construct 3
 
+This repository contains all the hands-on projects I created during my **Game Development Internship**  
+at **Educa Studio — Gamelab Indonesia** 🎮
 
-
-#### 📌 Overview
-
-A collection of **11 mini-projects** created during the Game Development Fundamentals program at Gamelab Indonesia.
-Each project introduces **one essential game mechanic** used in real game development workflows.
-
-This course helped me understand:
-
-* Player control systems
-* Input interactions (keyboard + mouse)
-* Camera & target mechanics
-* Simple UI and event logic
-* Basic game object behaviors
-* Smooth workflow and engine fundamentals
-* Basic understanding about code / Programming  
+Through this program, I learned the essential building blocks of game development using **Construct 3**,  
+starting from simple interactions and progressing into full gameplay systems and level design.
 
 ---
 
-#### 🎯 What’s Inside
+## 🧩 Project List
 
-Each folder represents **one mechanic-focused prototype**, built using **Construct 2/3** as one of my earliest gamedev tools.
-
-Example mechanics included:
-
-* 🔄 Mouse-aim rotation (e.g. Tank turret facing cursor)
-* 🔊 Sound system
-* 🎮 Player movement fundamentals
-* ⚠️ Simple collision rules
-* ⭐ Trigger-based feedback & scoring
-* 🧭 Level boundaries and respawn logic
-
-
----
-
-#### 🚀 Goal of This Course
-
-To build a **strong foundation** before moving into engines like Unity, Phaser, and Three.js.
-
-This marks the starting point of my gamedev journey —
-learning **one mechanic at a time** and turning those fundamentals into real games later.
+| No. | Project Name | Core Feature | Skills Learned |
+|-----|--------------|--------------|----------------|
+| 01 | Cursor-Tracking Tank | Object rotates to follow mouse pointer | Object behavior control, angle calculations |
+| 02 | Interactive Sound Gallery | Click image → play related audio | UI interaction, event triggers |
+| 03 | Math Quiz Challenge | Multiple-choice scoring system using arrays | Conditional logic, scoring system |
+| 04 | Trash Sorting Game | Sort objects into correct bins with randomized items | Drag-and-drop logic, win condition |
+| 05 | Shape Matching Puzzle | Place shapes in correct areas | Collision/overlap checks, level randomization |
+| 06 | Owl Coloring Game | Painting mechanic with 3 colors + eraser | Tile interaction, custom drawing system |
+| 07 | Spot the Differences | 2 levels + pop-up UI navigation | Scene transitions, game menus, retry system |
+| 08 | Fruit Catcher | Timer-based arcade gameplay | Spawn system, timer management, game loop |
+| 09 | 2D Platformer Final Project | Enemy collisions, collectibles, HP system, animations | Movement physics, basic AI, animation flow, level design |
 
 ---
 
-#### 📚 Tech Used
+## 🛠️ Technologies & Tools Used
 
-| Tool            | Purpose                                   |
-| --------------- | ----------------------------------------- |
-| Construct 3     | Visual introduction to gameplay mechanics |
-
----
-
-#### 🏆 Skills Gained
-
-* Understanding how mechanics combine into gameplay
-* Problem-solving mindset for interactive systems
-* Early experience with engine-based development workflows
+- **Construct 3 Game Engine**
+- Event Sheet Programming (Visual Scripting)
+- Animation Setup & Asset Integration
+- UI and Gameplay Logic Design
+- Basic Game Physics & Collision Systems
+- Audio Triggering & Game Feedback Loops
 
 ---
 
-📌 Game Fundamental with Construct — Project List
+## 🎓 What I Learned
 
-| No. | Project Name                | Core Feature                                   | Skills Learned                                              |
-| --- | --------------------------- | ---------------------------------------------- | ----------------------------------------------------------- |
-| 01  | Cursor-Tracking Tank        | Object rotates to follow mouse pointer         | Object behavior control, angle calculation                  |
-| 02  | Image Click Sound Gallery   | Sound changes based on selected image          | UI interaction, audio event binding                         |
-| 03  | Math Quiz Challenge         | Multiple choice math with score system         | Arrays, conditional logic, scoring                          |
-| 04  | Trash Sorting Game          | Sort organic vs non-organic                    | Randomization, win conditions, drag-and-drop                |
-| 05  | Shape Matching Puzzle       | Place shapes in the correct slots              | Collision check, randomized levels                          |
-| 06  | Owl Color Painting          | 3 paint colors + eraser tool                   | Tile interaction, drawing mechanics                         |
-| 07  | Spot the Differences        | Multi-scene game with retry option             | Level flow, pop-ups, game UI navigation                     |
-| 08  | Fruit Catcher               | Timer extends per catch, game over trigger     | Spawning system, timers, game loop                          |
-| 09  | 2D Platformer Final Project | Collect gems, enemies, 3 HP system, animations | Movement physics, AI basics, sprite animation, level design |
+Throughout these projects, I developed a strong foundation in:
+- Designing gameplay mechanics step-by-step
+- Structuring events and conditions to control game logic
+- Creating win/lose states and level progression
+- Implementing player feedback (audio/visual)
+- Debugging gameplay behavior and improving design choices
+- Turning small ideas into functional mini-games
 
+---
 
+## 🏁 Final Project Highlight — **Mini Platformer Game**
+
+My proudest build in this course.  
+Features include:
+- 3-HP player system
+- Animated enemies & player
+- Collectible gems
+- Level layout with obstacles
+- Game-over and win logic
+
+This project was a major milestone — applying everything I learned from the earlier exercises into one cohesive game.
+
+> *(Screenshots/GIFs coming soon!)*
+
+---
+
+If you want to explore the next stages of my game development journey, check out my upcoming repositories in:
+- **JavaScript for Games**
+- **Phaser**
+- **Three.js**
+
+---
+
+Thanks for viewing! 🚀  
+I’m just getting started ✨🎮
