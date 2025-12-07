@@ -14,3 +14,18 @@ These projects were created to introduce essential concepts such as gameplay mec
 ✔ Build simple but complete playable prototypes
 
 Each project focuses on one or more fundamental mechanics — progressing from the basics to more robust game logic.
+
+🧩 Project Contents
+
+| Project         | Title / Topic           | What I Learned                                   |
+| --------------- | ----------------------- | ------------------------------------------------ |
+| Fundamental #01 | **Core Game Structure** |  |
+| Fundamental #02 | (Add title here)        | (Add key learning)                               |
+| Fundamental #03 | (Add title here)        | (Add key learning)                               |
+| ...             | ... total up to 11      | ...                                              |
+
+| Left |  Center  | Right |
+|:-----|:--------:|------:|
+| L0   | **bold** | $1600 |
+| L1   |  `code`  |   $12 |
+| L2   | _italic_ |    $1 |
