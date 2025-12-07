@@ -60,11 +60,17 @@ learning **one mechanic at a time** and turning those fundamentals into real gam
 
 
 ```
-| Construct Project  | Purpose                                   |
-| ---------------    | ----------------------------------------- |
-| Project-01         | understanding how to make an object always face the cursor or mouse |
-| Project-02         | understanding how to make an object always face the cursor or mouse |
-
+| No. | Project Name                | Core Feature                                   | Skills Learned                                              |
+| --- | --------------------------- | ---------------------------------------------- | ----------------------------------------------------------- |
+| 01  | Cursor-Tracking Tank        | Object rotates to follow mouse pointer         | Object behavior control, angle calculation                  |
+| 02  | Image Click Sound Gallery   | Sound changes based on selected image          | UI interaction, audio event binding                         |
+| 03  | Math Quiz Challenge         | Multiple choice math with score system         | Arrays, conditional logic, scoring                          |
+| 04  | Trash Sorting Game          | Sort organic vs non-organic                    | Randomization, win conditions, drag-and-drop                |
+| 05  | Shape Matching Puzzle       | Place shapes in the correct slots              | Collision check, randomized levels                          |
+| 06  | Owl Color Painting          | 3 paint colors + eraser tool                   | Tile interaction, drawing mechanics                         |
+| 07  | Spot the Differences        | Multi-scene game with retry option             | Level flow, pop-ups, game UI navigation                     |
+| 08  | Fruit Catcher               | Timer extends per catch, game over trigger     | Spawning system, timers, game loop                          |
+| 09  | 2D Platformer Final Project | Collect gems, enemies, 3 HP system, animations | Movement physics, AI basics, sprite animation, level design |
 
 ...
 ```
