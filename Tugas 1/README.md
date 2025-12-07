@@ -6,7 +6,7 @@
 
 ## 🎯 Purpose of This Project
 
-This project was assigned to introduce the **basic components of a playable game**:
+This project was assigned to introduce the **basic components of a Mouse Movement**:
 
 ✔ Level/scene setup
 ✔ Character object placement
